@@ -76,9 +76,9 @@ function draw() {
   //   arrow.shoot(playerArcher);
   //  }
 
-   // if(keyCode === 32){
-   //  arrow.shoot(playerArcher.body.angle);
-   // }
+  //  if(keyCode === 32){
+  //   arrow.shoot(playerArcher.body.angle);
+  //  }
    
     if(keyCode === 32){
      arrow.display()
